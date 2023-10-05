@@ -1,0 +1,3 @@
+Just import the loqi.dll into your apex legends game process. Have fun & enjoy!
+
+Feel free to like our github repository :-)
